@@ -8,9 +8,6 @@ Bem-vindo ao repositório do **Projeto da Global**! Este repositório contém o 
 - [Funcionalidades](#funcionalidades)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Instalação e Uso](#instalação-e-uso)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-- [Contato](#contato)
 
 ---
 
